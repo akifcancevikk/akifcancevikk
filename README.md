@@ -1,4 +1,4 @@
-                                                           Merhabalar, ben Akifcan ÇEVİK👋
+# Merhabalar, ben Akifcan ÇEVİK👋
 
 
 
