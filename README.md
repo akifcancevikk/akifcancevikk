@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**akifcancevikk/akifcancevikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+<br />
+
+[linkedin]: https://www.linkedin.com/in/akif-can-%C3%A7evik-861488174/
+[gmail]: mailto:canakif00@gmail.com
+<br />
