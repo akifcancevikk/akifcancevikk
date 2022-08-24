@@ -32,3 +32,13 @@
 [github]: https://github.com/IbrahimTalha0
 [python]: https://www.python.org/
 
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akifcancevikk&theme=tokyonight)
+
+
+<br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akifcancevikk&show_icons=true&theme=tokyonight)
+
+
